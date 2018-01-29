@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="title_activity_conversion">Converting Centimeters to Inches</string>
+    <string name="centimeters_text">Centimeters:</string>
+    <string name="inches_text">Inches:</string>
+    <string name="convert_button">Convert</string>
+    <string name="title_help_activity">Help</string>
+    <string name="help_text">To carry out a conversion select the conversion button on the homescreen
+        then enter a centimeter value into the text box provided and click convert, this will then
+        display the value in inches.</string>
+    <string name="img_source">www.agchq</string>
+</resources>
